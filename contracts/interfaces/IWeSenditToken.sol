@@ -67,3 +67,4 @@ interface IWeSenditToken {
         uint256 amount
     ) external returns (bool);
 }
+0x93840a68dc4fbf3a93c0b725e186789ae5ac415c
