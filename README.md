@@ -1,4 +1,4 @@
-# <img src="https://wesendit.io/wp-content/uploads/2022/04/cropped-WSI_Favicon-192x192.png" width="20px" height="20px"></img> WeSendit Smart Contracts 🚀
+.# <img src="https://wesendit.io/wp-content/uploads/2022/04/cropped-WSI_Favicon-192x192.png" width="20px" height="20px"></img> WeSendit Smart Contracts 🚀
 
 This repository contains a set of smart contracts used by WeSendit.
 
